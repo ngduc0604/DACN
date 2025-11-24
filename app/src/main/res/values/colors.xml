@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
+    <color name="blue500">#042390</color>
+    <color name="yellow">#A69B07</color>
+    <!--    <color name="blue500">#EC6408</color>-->
+=======
+>>>>>>> 3a496a1c6c153f1e839d6ec845a57bf3ded39c90
+</resources>
